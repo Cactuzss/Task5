@@ -1,0 +1,145 @@
+@media screen and (max-width: 1200px) 
+{
+    .header--text
+    {
+        margin-left: 2%;
+        margin-right: 10%;
+        text-decoration: none;
+
+        color: rgb(100, 100, 100);
+        font-size: 21px;
+    }
+
+    .header--button 
+    {
+        margin-left: 41%;
+        
+
+        width: 42px;
+        display: inline-block;
+        background: #2196f3;
+        color: #fff;
+        padding: 1%;
+        border-radius: 9px;
+        font-size: 15px;
+    }
+
+    aside 
+    {
+        background: rgb(238, 238, 238);
+        width: 300px;
+        float: left;
+        margin-left: 2%;
+        margin-right: 5%;
+    }
+
+}
+
+@media screen and (max-width: 992px)
+{
+    .header--text
+    {
+        margin-left: 2%;
+        margin-right: 5%;
+        text-decoration: none;
+
+        color: rgb(67, 67, 67);
+        font-size: 21px;
+    }
+
+    .header--button 
+    {
+        margin-left: 45%;
+        
+
+        width: 42px;
+        display: inline-block;
+        background: #2196f3;
+        color: #fff;
+        padding: 1%;
+        border-radius: 9px;
+        font-size: 15px;
+    }
+
+}
+
+@media screen and (max-width: 720px) 
+{
+    .header--button 
+    {
+        margin-left: 30%;
+        margin-right: 7%;
+
+        width: 42px;
+        display: inline-block;
+        background: #2196f3;
+        color: #fff;
+        padding: 2%;
+        border-radius: 9px;
+        font-size: 15px;
+    }
+
+    .aside 
+    {
+        width: 95%;
+        height: 40%;
+
+        float: center;
+        margin-left: 2%;
+        margin-right: 10%;
+    }
+
+    .footer--image
+    {
+        width: 1%;
+        height: 1%;
+    }
+
+    .aside--text
+    {
+        text-align: left;
+        padding: 5%;
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 480px) 
+{
+    .header--button 
+    {
+        margin-left: 30%;
+        margin-right: 7%;
+
+        width: 42px;
+        display: inline-block;
+        background: #2196f3;
+        color: #fff;
+        padding: 2%;
+        border-radius: 9px;
+        font-size: 15px;
+    }
+
+    .aside 
+    {
+        width: 95%;
+        height: 40%;
+
+        float: center;
+        margin-left: 2%;
+        margin-right: 10%;
+    }
+
+    .footer--image
+    {
+        width: 1%;
+        height: 1%;
+    }
+
+    .aside--text
+    {
+        text-align: left;
+        padding: 5%;
+        font-size: 15px;
+    }
+}
+
